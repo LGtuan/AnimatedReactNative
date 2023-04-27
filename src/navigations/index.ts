@@ -1,7 +1,8 @@
 import RootNavigation from "./RootNavigation";
 
-const a = "1234"
-const b = "12345";
+
+const y = "oieowiei"
+const z = "oieowiei"
 
 export {
     RootNavigation
